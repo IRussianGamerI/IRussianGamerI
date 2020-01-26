@@ -1,0 +1,7 @@
+2
+Выбери нужное слово
+Do they ____their beds in the morning?
+3
+make
+clean
+wash

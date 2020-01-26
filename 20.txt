@@ -1,0 +1,7 @@
+2
+Выбери нужное слово
+We like to ___ the stars in the evening
+3
+watch
+lay
+clean

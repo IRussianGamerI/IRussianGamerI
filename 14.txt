@@ -1,0 +1,9 @@
+2
+Выпишите личнее слово
+ 
+5
+bag
+living room
+bedroom
+hall
+flat

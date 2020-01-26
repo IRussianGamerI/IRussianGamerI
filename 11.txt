@@ -1,0 +1,9 @@
+2
+Выпишите лишнее слово
+ 
+5
+answer
+sofa
+chair
+table
+bed
